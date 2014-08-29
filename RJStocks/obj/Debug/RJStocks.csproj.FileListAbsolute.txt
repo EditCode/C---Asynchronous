@@ -1,0 +1,8 @@
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\bin\RJStocks.dll.config
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\bin\RJStocks.dll
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\bin\RJStocks.pdb
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\obj\Debug\RJStocks.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\obj\Debug\RJStocks.dll
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\obj\Debug\RJStocks.pdb
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\bin\clsStocks.dll
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\RJStocks\bin\clsStocks.pdb

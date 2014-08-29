@@ -1,0 +1,5 @@
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\clsStocks\bin\Debug\clsStocks.dll
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\clsStocks\bin\Debug\clsStocks.pdb
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\clsStocks\obj\Debug\clsStocks.dll
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\clsStocks\obj\Debug\clsStocks.pdb
+C:\Users\Roger\Dropbox\Dev\Testing\RJStocks\clsStocks\obj\Debug\clsStocks.csprojResolveAssemblyReference.cache

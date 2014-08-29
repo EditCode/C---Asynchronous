@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJStocks", "RJStocks\RJStocks.csproj", "{98795231-62E5-45F9-BF48-492040B89B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clsStocks", "clsStocks\clsStocks.csproj", "{812AF17B-8F7A-488B-8152-9640CDEED97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98795231-62E5-45F9-BF48-492040B89B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98795231-62E5-45F9-BF48-492040B89B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98795231-62E5-45F9-BF48-492040B89B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98795231-62E5-45F9-BF48-492040B89B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812AF17B-8F7A-488B-8152-9640CDEED97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812AF17B-8F7A-488B-8152-9640CDEED97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812AF17B-8F7A-488B-8152-9640CDEED97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812AF17B-8F7A-488B-8152-9640CDEED97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
